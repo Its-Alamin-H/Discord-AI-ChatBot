@@ -4,5 +4,5 @@ You can even train your own model using your favourite data, or you can take any
 
 Here is a demo of the Telegram bot in action.: 👇👇
 
-<img src="https://github.com/Its-Alamin-H/Discord-AI-ChatBot/blob/c4397584d67b8fe06b45be80cd865b77f79c2a68/demo.jpg" height=600><br>
+<img src="https://github.com/Its-Alamin-H/Discord-AI-ChatBot/blob/c4397584d67b8fe06b45be80cd865b77f79c2a68/demo.jpg" width =600><br>
 
